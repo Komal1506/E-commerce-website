@@ -1,3 +1,4 @@
+#this is docker file
 # Use the official Nginx image from the Docker Hub
 FROM nginx:latest
 
