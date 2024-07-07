@@ -2,7 +2,7 @@
 FROM nginx:latest
 
 # Maintainer information
-LABEL maintainer="koml12a2gmail.com"
+LABEL maintainer="surywanshikomal328@gmail.com"
 
 # Copy the static files to the Nginx web root
 COPY . /usr/share/nginx/html
